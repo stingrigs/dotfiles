@@ -1,2 +1,2 @@
 # dotfiles
-StinGrigs Doddfiles
+StinGrigs dotfiles...
