@@ -147,6 +147,9 @@ alias gs="git status";
 alias gp="git pull";
 alias gf="git fetch";
 alias gpush="git push";
+alias gpusho="gpush -u origin";
+alias gbd="git branch --delete";
+alias gradd="git remote add origin";
 alias gd="git diff";
 alias ga="git add .";
 dif() { git diff --color --no-index "$1" "$2" | diff-so-fancy; }
